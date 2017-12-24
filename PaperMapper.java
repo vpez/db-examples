@@ -1,5 +1,3 @@
-package am.aua.idx;
-
 import java.util.Arrays;
 import java.util.UUID;
 import java.util.function.Function;
